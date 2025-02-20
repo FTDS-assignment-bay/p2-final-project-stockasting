@@ -8,3 +8,6 @@ In this repository you will find:
 - Model Deployment (/Deployment)
 
 There will be the data used in this model creation as well, both are cleaned. 
+
+Authors : 
+Joko Utama, Fawwaz Rif'at Revista
